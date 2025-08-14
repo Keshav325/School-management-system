@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "re-chart": "^1.0.0",
+    "recharts": "^3.1.2"
+  }
+}
